@@ -4,12 +4,10 @@ Created: Aug17,2023
 
 
 Research Steps:
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
-1. Finding the storms to consider
-2. assimilating the rainfall dataset
-3. hydrology
+- [x] 1. Finding the storms to consider
+- [ ] 2. assimilating the rainfall dataset
+- [ ] 3. hydrology
+
 
 Storms considering - https://purdue0-my.sharepoint.com/personal/tiwari13_purdue_edu/_layouts/15/doc.aspx?sourcedoc={fe2b7e77-47ea-449f-a6a5-8470732622f8}&action=edit
 
