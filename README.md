@@ -32,3 +32,6 @@ https://www.wpc.ncep.noaa.gov/tropical/rain/2011.html (Available with year and n
 | Beryl 2012  | 15  |
 | Irma 2017  | 21.66  |
 | Michael 2018  | 13.01  |
+
+DECISION ON STORM PERIOD:
+1. Charley - 9-14 august
