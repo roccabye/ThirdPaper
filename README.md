@@ -4,12 +4,12 @@ Created: Aug17,2023
 
 
 Research Steps:
-- [x] 1. Finding the storms to consider #739
+- [x] 1. Finding the storms to consider 
 - [ ] 2. assimilating the rainfall dataset
 - [ ] 3. hydrology
 
 
-Storms considering - https://purdue0-my.sharepoint.com/personal/tiwari13_purdue_edu/_layouts/15/doc.aspx?sourcedoc={fe2b7e77-47ea-449f-a6a5-8470732622f8}&action=edit
+Storms considering - [OneDrive Slide] (https://purdue0-my.sharepoint.com/personal/tiwari13_purdue_edu/_layouts/15/doc.aspx?sourcedoc={fe2b7e77-47ea-449f-a6a5-8470732622f8}&action=edit)
 
 https://www.nhc.noaa.gov/data/tcr/index.php?season=2012&basin=atl - pdf report for all storms NHC
 
