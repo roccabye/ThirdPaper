@@ -13,7 +13,7 @@ Storms considering - [OneDrive Slide](https://purdue0-my.sharepoint.com/personal
 
  - [pdf report for all storms NHC](https://www.nhc.noaa.gov/data/tcr/index.php?season=2012&basin=atl)
 
-A. 2004 : [Hurricane Charley]([url](https://www.nhc.noaa.gov/data/tcr/AL032004_Charley.pdf)) (Aug 12 - 15, 2004)
+A. 2004 : [Hurricane Charley]([[url](https://www.nhc.noaa.gov/data/tcr/AL032004_Charley.pdf)]()) (Aug 12 - 15, 2004)
 B. 2004 : Hurricane Frances (Sep 3 - 11, 2004) - https://www.nhc.noaa.gov/data/tcr/AL062004_Frances.pdf
 C. 2004 : Hurricane Jeanne (Sep 25 - 30, 2004) - https://www.nhc.noaa.gov/data/tcr/AL112004_Jeanne.pdf
 D. 2008 : Tropical Storm Fay (Aug 17 - 29, 2008) - https://www.nhc.noaa.gov/data/tcr/AL062008_Fay.pdf
