@@ -18,7 +18,7 @@ B. 2004 : [Hurricane Frances](https://www.nhc.noaa.gov/data/tcr/AL062004_Frances
 C. 2004 : [Hurricane Jeanne](https://www.nhc.noaa.gov/data/tcr/AL112004_Jeanne.pdf) (Sep 25 - 30, 2004)\
 D. 2008 : [Tropical Storm Fay](https://www.nhc.noaa.gov/data/tcr/AL062008_Fay.pdf) (Aug 17 - 29, 2008)\
 E. 2012 : [Tropical Storm Beryl](https://www.nhc.noaa.gov/data/tcr/AL022012_Beryl.pdf) (May 26 - 30, 2012)\
-F. 2017 : [Hurricane Irma](https://www.nhc.noaa.gov/data/tcr/AL112017_Irma.pdf) (Sep 8 - 14, 2017)
+F. 2017 : [Hurricane Irma](https://www.nhc.noaa.gov/data/tcr/AL112017_Irma.pdf) (Sep 8 - 14, 2017)\
 G. 2018 : [Hurricane Michael](https://www.nhc.noaa.gov/data/tcr/AL142018_Michael.pdf) (Oct 6 - 12, 2018)
 
 Rainfalls Observed during these Storms: https://www.wpc.ncep.noaa.gov/#page=ovw
