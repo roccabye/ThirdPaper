@@ -6,9 +6,9 @@ Created: Aug17,2023
 Research Steps:
 - [x] 1. Finding the storms to consider 
 - [ ] 2. assimilating the rainfall dataset
-      a. G-COOP
-      b. IMERG
-      c. StageIV
+      a. G-COOP/
+      b. IMERG/
+      c. StageIV/
 - [ ] 3. hydrology
 
 
