@@ -33,13 +33,17 @@ https://www.wpc.ncep.noaa.gov/tropical/rain/2011.html (Available with year and n
 | Irma 2017  | 21.66  |
 | Michael 2018  | 13.01  |
 
-##DECISION ON STORM PERIOD:
+## DECISION ON STORM PERIOD:
 1. Charley - 9-14 august
 
 
 
-##DATA ASSIMILATION
+## DATA ASSIMILATION
 - a. G-COOP
+  - a zipped file for "nc" files from 1915 to 2018 is available
+  - unzip for the year needed
+  - create daily data "nc" file for storm period
+  - create cummulative "nc" file  
 - b. IMERG
 - c. StageIV
 
