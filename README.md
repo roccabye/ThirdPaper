@@ -6,9 +6,6 @@ Created: Aug17,2023
 Research Steps:
 - [x] 1. Finding the storms to consider 
 - [ ] 2. assimilating the rainfall dataset
-            - a. G-COOP
-            - b. IMERG
-            - c. StageIV
 - [ ] 3. hydrology
 
 
@@ -36,5 +33,13 @@ https://www.wpc.ncep.noaa.gov/tropical/rain/2011.html (Available with year and n
 | Irma 2017  | 21.66  |
 | Michael 2018  | 13.01  |
 
-DECISION ON STORM PERIOD:
+##DECISION ON STORM PERIOD:
 1. Charley - 9-14 august
+
+
+
+##DATA ASSIMILATION
+- a. G-COOP
+- b. IMERG
+- c. StageIV
+
