@@ -1,0 +1,7 @@
+
+
+daily Data saved at phig
+folder name Charley/G-COOP/dailydata_Aug_9_14/livneh*.nc
+
+summed up data
+Charley/G-COOP/Livneh_charley_total.nc
