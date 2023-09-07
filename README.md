@@ -18,6 +18,7 @@ B. 2004 : [Hurricane Frances](https://www.nhc.noaa.gov/data/tcr/AL062004_Frances
 C. 2004 : [Hurricane Jeanne](https://www.nhc.noaa.gov/data/tcr/AL112004_Jeanne.pdf) (Sep 25 - 30, 2004)\
 D. 2008 : [Tropical Storm Fay](https://www.nhc.noaa.gov/data/tcr/AL062008_Fay.pdf) (Aug 17 - 29, 2008)\
 E. 2012 : [Tropical Storm Beryl](https://www.nhc.noaa.gov/data/tcr/AL022012_Beryl.pdf) (May 26 - 30, 2012)\
+F. 2012 : [Tropical Storm Debby] (https://ialert.com/docs/AL042012_Debby.pdf) (June 23 - 27, 2012)\
 F. 2017 : [Hurricane Irma](https://www.nhc.noaa.gov/data/tcr/AL112017_Irma.pdf) (Sep 8 - 14, 2017)\
 G. 2018 : [Hurricane Michael](https://www.nhc.noaa.gov/data/tcr/AL142018_Michael.pdf) (Oct 6 - 12, 2018)
 
@@ -30,6 +31,7 @@ https://www.wpc.ncep.noaa.gov/tropical/rain/2011.html (Available with year and n
 | Jeanne 2004  | 11.97  |
 | Fay 2008  | 27.65  |
 | Beryl 2012  | 15  |
+| Debby 2012 | 28.78 |
 | Irma 2017  | 21.66  |
 | Michael 2018  | 13.01  |
 
