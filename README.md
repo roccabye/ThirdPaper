@@ -47,5 +47,9 @@ https://www.wpc.ncep.noaa.gov/tropical/rain/2011.html (Available with year and n
   - create daily data "nc" file for storm period
   - create cummulative "nc" file  
 - b. IMERG
+  - download txt file through openDAP option https://disc.gsfc.nasa.gov/datasets/GPM_3IMERGDF_06/summary (instructions)[https://purdue0-my.sharepoint.com/personal/tiwari13_purdue_edu/_layouts/15/doc.aspx?sourcedoc={3fe1709e-1128-454b-8055-dca445ca5647}&action=edit] 
+  - download using wget - rename the files - daily nc4 data created(use download_imerg.sh)
+  - masking and projection
+  -   
 - c. StageIV
 
