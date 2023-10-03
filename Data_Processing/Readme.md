@@ -19,11 +19,18 @@ This script will dowload and rename the data downlaoded for the region
 #Michael - 20181014 to oct 14 2018
 
 #------- Download IMERG using links in the txt file -------
+
 wget -P ./openDAP --load-cookies ~/.urs_cookies --save-cookies ~/.urs_cookies --auth-no-challenge=on --keep-session-cookies -i TCM*.txt
 
 #------- rename the files for ease -------
+
 for date in {20181004..20181014}
 do
 mv openDAP/3B-DAY.MS.MRG.3IMERG.${date}*nc4* renamed/imerg_${date}.nc4;
 
 done
+
+#-----------------------------------------------------------------------
+This imerg precipitation is 0.1 deg and non-transposed i.e. y axis is lon and x axis is lat
+
+<img width="903" alt="Screen Shot 2023-10-03 at 11 42 53 AM" src="https://github.com/roccabye/ThirdPaper/assets/29563170/d4fa85ca-24d4-4fa5-8894-4e6203063d1c">
