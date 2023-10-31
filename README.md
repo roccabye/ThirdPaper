@@ -45,11 +45,23 @@ https://www.wpc.ncep.noaa.gov/tropical/rain/2011.html (Available with year and n
   - a zipped file for "nc" files from 1915 to 2018 is available
   - unzip for the year needed
   - create daily data "nc" file for storm period
-  - create cummulative "nc" file  
+  - create cummulative "nc" file
+ 
+  - unzip -j "livneh1915-2018.zip" "livneh...2012(yeardesired).nc" "/RawData(desired directory)"
+  - GCOOP.sh - to extract exact dates for dailydata - G-COOP/Data/dailydata
+  - GCOOP_total.sh - to create cumulative for the storm period - G-COOP/Data
+  - 
 - b. IMERG
   - download txt file through openDAP option https://disc.gsfc.nasa.gov/datasets/GPM_3IMERGDF_06/summary (instructions)[https://purdue0-my.sharepoint.com/personal/tiwari13_purdue_edu/_layouts/15/doc.aspx?sourcedoc={3fe1709e-1128-454b-8055-dca445ca5647}&action=edit] 
   - download using wget - rename the files - daily nc4 data created(use download_imerg.sh)
   - masking and projection
-  -   
+ 
+  - DOWNLOAD: download the txt link
+  - download_imerg.sh - IMERG/RawData/openDAP 0.1x0.1 deg
+  - rename.sh -   IMERG/RawData/renamedP 0.1x0.1 deg
+  - PROCESSING_MASKING:
+  - Process_IMERG_GCOOP_Daily.ipynb (need xesmf environment) - IMERG/Data/dailydata 0.0625 x 0.0625 deg
+  - imrtg_total.sh - to create cumulative for the storm period - IMERG/Data 0.0625 x 0.0625 deg
+  - 
 - c. StageIV
 
