@@ -64,4 +64,9 @@ https://www.wpc.ncep.noaa.gov/tropical/rain/2011.html (Available with year and n
   - imrtg_total.sh - to create cumulative for the storm period - IMERG/Data 0.0625 x 0.0625 deg
   - 
 - c. StageIV
-
+  - submit order to download Stage IV data from EOL NCAR uCAR website https://data.eol.ucar.edu/cgi-bin/codiac/fgr_form/id=21.093
+  - Recieve email download data using the links sent
+  - sort the 06h - 6 hourly data ina folder: we wil luse 6 hr data to create 24 hr data
+  - sort by storm dates - use copy_stiv.sh to only move data relate dto all eight storms
+  - the folder stiv06h has grib files
+  - convert to netcdf and convert the polar to cartesian
